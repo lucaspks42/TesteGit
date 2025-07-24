@@ -2,6 +2,6 @@
 public class TesteIntragracao {
 	public static void main(String[] args) {
 		System.out.println("Primeiro teste");
-		System.out.println("Segundo Teste");
+		System.out.println("teste");
 	}
 }
