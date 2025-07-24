@@ -4,5 +4,6 @@ public class TesteIntragracao {
 		System.out.println("Primeiro teste");
 		System.out.println("Segundo teste");
 		System.out.println("Terceiro Teste");
+		System.out.println("Teste");
 	}
 }
